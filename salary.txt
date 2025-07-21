@@ -1,0 +1,2 @@
+Designed optimized data extraction and transformation workflows using MySQL, accelerating compensation data analysis by 40%
+Built comprehensive reporting solutions enabling faster data-driven decision-making through improved data operational processes
