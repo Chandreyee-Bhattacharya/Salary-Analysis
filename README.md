@@ -18,7 +18,6 @@ This project provides a detailed SQL-based analysis of employee compensation dat
 - [🎯 Business Problems](#-business-problems)
 - [📁 Project Structure](#-project-structure)
 - [🗄️ Data Schema](#️-data-schema)
-- [🚀 Setup Instructions](#-setup-instructions)
 - [💡 Query Explanations](#-query-explanations)
 - [📷 Sample Output](#-sample-output)
 - [🤝 Contributing](#-contributing)
